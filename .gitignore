@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheel- உடை/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+# Usually these files are written by a python script from a template
+# before PyInstaller makes the exe, so they are ignored.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+nose.cfg
+apidocs/
+docs/
+build/sphinxapi/
+
+# Sphinx documentation
+.rst.db
+*.py domain
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+venv.
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.sublime-workspace
+*.vscode/
+
+# Mac OS files
+.DS_Store
